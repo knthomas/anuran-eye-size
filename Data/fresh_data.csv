@@ -1,0 +1,70 @@
+﻿Expedition,Field_number,Biorepository_number,Museum,Order,Family,Subfamily,Genus,Species,Life_stage,SVL_mm,Mass_g,ED_mm_insitu,CD_mm_insitu,ED_mm_dissected,CD_mm_dissected,AD_mm_dissected,LD_mm_dissected,N_eyes
+NHM-Nov-2018,JWS 883,,NHM,Anura,Dendrobatidae,Colostethinae,Epipedobates,tricolor,adult,18.9,0.6,2.8,2.2,2.3,1.4,2,NA,1
+French Guiana April 2018,MW 9969,,BMNH,Anura,Microhylidae,Gastrophryninae,Chiasmocleis,shudikarensis,adult,19.9,,NA,NA,2.2,2,2,0.8,1
+French Guiana April 2018,MW 11550,,BMNH,Anura,Craugastoridae,Ceuthomantinae,Pristimantis,sp.,adult,14.9,,2.7,2.1,2.4,2.1,2.3,1.3,1
+French Guiana April 2018,MW 11574,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Adenomera,sp. (hylaedactyla?),adult,20.3,,2.4,2,2.4,2,2.3,NA,1
+NHM-Nov-2018,JWS 886,,NHM,Anura,Hemisotidae,,Hemisus,marmoratus,adult,33.1,5.1,3.3,2.2,2.4,2.3,2.4,NA,1
+French Guiana April 2018,MW 11140,,BMNH,Anura,Centrolenidae,Hyalinobatrachinae,Hyalinobatrachium,cappellei,adult,21.4,,3.1,2.7,2.8,2.5,2.5,NA,1
+French Guiana April 2018,MW 11542,,BMNH,Anura,Eleutherodactylidae,Eleutherodactylinae,Eleutherodactylus,johnstonei,adult,20.1,,2.9,2.3,2.7,2.2,2.5,1.7,1
+NHM-Nov-2018,JWS 882,,NHM,Anura,Mantellidae,Mantellinae,Mantella,betsileo,adult,22.3,1,3.2,2,2.9,2.2,2.6,NA,1
+French Guiana April 2018,MW 11106,,BMNH,Anura,Hylidae,Dendropsophinae,Dendropsophus,sp.,adult,17.5,,3.2,2.3,2.9,2.5,2.6,2.1,1
+French Guiana April 2018,MW 9957,,BMNH,Anura,Centrolenidae,Hyalinobatrachinae,Hyalinobatrachium,cappellei,adult,22.8,,2.6,NA,3.05,2.45,2.95,NA,2
+French Guiana April 2018,MW 9959,,BMNH,Anura,Centrolenidae,Hyalinobatrachinae,Hyalinobatrachium,cappellei,adult,23.2,,NA,NA,3.45,2.9,3.3,NA,2
+NHM-Nov-2018,JWS 885,,NHM,Anura,Microhylidae,Phrynomerinae,Phrynomantis,microps,adult,51.8,13.6,4.3,3.6,3.3,3.1,3.4,NA,1
+French Guiana April 2018,MW 9958,,BMNH,Anura,Centrolenidae,Hyalinobatrachinae,Hyalinobatrachium,cappellei,adult,24.1,,2.8,NA,3.6,2.95,3.45,NA,2
+French Guiana April 2018,MW 9984,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Leptodactylus,cf. mystaceus,adult,28.6,,3.5,3.1,3.7,3.05,3.5,NA,2
+French Guiana April 2018,MW 9991,,BMNH,Anura,Hylidae,Dendropsophinae,Dendropsophus,leucophyllatus,adult,27.6,,4.2,3.9,4,3.7,3.6,NA,2
+French Guiana April 2018,MW 9949,,BMNH,Anura,Craugastoridae,Ceuthomantinae,Pristimantis,chiastonotus,adult,25.7,,4,3.5,4,3.5,3.7,NA,1
+NHM-Nov-2018,JWS 889,,NHM,Anura,Hyperoliidae,,Hyperolius,fusciventris,adult,33.6,1.4,4,3.7,4,3.5,3.7,NA,1
+French Guiana April 2018,MW 9990,,BMNH,Anura,Hylidae,Dendropsophinae,Dendropsophus,leucophyllatus,adult,29.4,,4.2,3.5,3.8,3.3,3.7,NA,1
+French Guiana April 2018,MW 9993,,BMNH,Anura,Hylidae,Scinaxinae,Scinax,bosemani,adult,30.5,,4.5,3.7,4.9,3.5,3.7,2.6,1
+Amazonia 2018 (Ivan),MTR 41588,,,Anura,Leptodactylidae,Leptodactylinae,Leptodactylus,podicipinus,adult,NA,,NA,NA,NA,3.77,3.73,2.7,1
+French Guiana April 2018,MW 9989,,BMNH,Anura,Hylidae,Dendropsophinae,Dendropsophus,leucophyllatus,adult,27.8,,4.2,3.5,3.9,3.3,3.8,NA,1
+French Guiana April 2018,MW 9992,,BMNH,Anura,Hylidae,Dendropsophinae,Dendropsophus,leucophyllatus,adult,29,,4.4,3.7,4,3.7,4,3,1
+French Guiana April 2018,MW 9983,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Leptodactylus,cf. mystaceus,adult,35,,4.9,4.1,4.7,3.95,4.3,NA,2
+NHM-Nov-2018,JWS 888,,NHM,Anura,Hyperoliidae,,Kassina,senegalensis,adult,34.8,2.6,4.3,3.5,4.3,3.7,4.2,2.9,1
+French Guiana April 2018,MW 11090,,BMNH,Anura,Hylidae,Cophomantinae,Boana,cinerascens,adult,37.6,,4.6,3.3,4.7,3.7,4.4,3,1
+French Guiana April 2018,MW 11112,,BMNH,Anura,Craugastoridae,Ceuthomantinae,Pristimantis,zeuctotylus,adult,28,,5,4.4,4.7,3.7,4.4,3,1
+French Guiana April 2018,MW 9952,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Lithodytes,lineatus,adult,48.7,,5.1,NA,4.95,4.05,4.65,NA,2
+French Guiana April 2018,MW 9953,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Lithodytes,lineatus,adult,48.5,,5.5,NA,5.1,4.6,5,NA,1
+French Guiana April 2018,MW 11155,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Lithodytes,lineatus,adult,54,,6.3,4.9,5.5,4.8,5.1,3.2,1
+French Guiana April 2018,MW 9954,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Lithodytes,lineatus,adult,52.3,,4.8,NA,5.35,4.9,5.15,NA,2
+Pet trade December 2016,JWS 764,,NHM,Anura,Bufonidae,NA,Sclerophrys,sp.,adult,50.2,11,NA,NA,5.5,4.3,5.3,3.4,1
+French Guiana April 2018,MW 9982,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Leptodactylus,cf. mystaceus,adult,50.4,,5.7,5.1,5.65,5,5.15,NA,2
+NHM-Nov-2018,JWS 891,,NHM,Anura,Microhylidae,Microhylinae,Kaloula,pulchra,adult,63.8,27.9,6.3,4.5,5.6,5.2,5.4,3.5,1
+French Guiana April 2018,MW 11105,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Leptodactylus,mystaceus,adult,50.6,,6.2,4.7,5.5,4.9,5.4,3.7,1
+NHM-Nov-2018,JWS 884,,NHM,Anura,Mantellidae,Boophinae,Boophis,erythrodactylus,adult,42.9,4.6,6,5.1,5.4,5.1,5.5,NA,1
+London April 2019,JWS 896,,NHM,Anura,Ranidae,,Rana,temporaria,adult,63.61,19.12,6.51,6.51,6.15,4.88,5.71,3.29,1
+NHM-Nov-2018,JWS 890,,NHM,Anura,Ceratophryidae,,Lepidobatrachus,laevis,adult,59.4,21.5,6,4.8,5.4,4.2,5.8,NA,1
+French Guiana April 2018,MW 11132,,BMNH,Anura,Phyllomedusidae,NA,Callimedusa,tomopterna,adult,52.6,,6.2,4.9,6.1,5.4,5.8,3.8,1
+French Guiana April 2018,MW 11133,,BMNH,Anura,Hylidae,Cophomantinae,Boana,calcarata,adult,43.5,,6.3,5,6.1,5.1,5.8,4.2,1
+Pet trade December 2016,JWS 763,,NHM,Anura,Hylidae,Lophyohylinae,Osteopilus,sp.,adult,52.3,8,NA,NA,5.9,5.2,5.8,4,1
+Pet trade December 2016,JWS 762,,NHM,Anura,Rhacophoridae,Rhacophorinae,Polypedates,sp.,adult,53.2,8,NA,NA,6.5,5.6,5.9,4.1,1
+French Guiana April 2018,MW 11091,,BMNH,Anura,Hylidae,Cophomantinae,Boana,diabolica,adult,44.9,,6.3,5.1,6.4,5.7,6,3.9,1
+London April 2019,JWS 895,,NHM,Anura,Ranidae,,Rana,temporaria,adult,67.2,24.24,7.31,7.31,7.02,5.82,6.58,3.93,1
+French Guiana April 2018,MW 11075,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Leptodactylus,rhodomystax,adult,54.8,,7.7,6,6.7,5.8,6.6,4.3,1
+Pet trade December 2016,JWS 761,,NHM,Anura,Microhylidae,Dyscophinae,Dyscophus,sp.,adult,57.9,22,NA,NA,6.6,5.7,6.6,4.4,1
+French Guiana April 2018,MW 9998,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Leptodactylus,pentadactylus,adult,63.1,,8.3,6.6,7.8,6.6,7.3,2.8,1
+French Guiana April 2018,MW 10000,,BMNH,Anura,Hylidae,Lophyohylinae,Osteocephalus,oophagus,adult,65.4,,7.6,6.5,8,6.9,7.6,6,1
+NHM-Nov-2018,JWS 881,,NHM,Anura,Ceratobatrachidae,Ceratobatrachinae,Ceratobatrachus,guntheri,adult,70.2,26.7,9.7,6.9,8.3,6.9,7.8,5.6,1
+French Guiana April 2018,MW 9965,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Leptodactylus,cf. pentadactylus,adult,67.8,,9,NA,8.6,7.4,7.95,NA,2
+French Guiana April 2018,MW 9985,,BMNH,Anura,Phyllomedusidae ,NA,Phyllomedusa,vaillanti,adult,70.8,,8.3,7.3,7.8,7.5,8.1,5.8,1
+French Guiana April 2018,MW 9999,,BMNH,Anura,Hylidae,Lophyohylinae,Osteocephalus,cf. taurinus,adult,82.3,,9.9,8.2,9.5,8,8.7,NA,2
+Amazonia 2018 (Ivan),MTR 41575,,,Anura,Leptodactylidae,Leptodactylinae,Leptodactylus,knudseni,adult,NA,,NA,NA,NA,8.86,8.9,5.4,1
+French Guiana April 2018,MW 9987,,BMNH,Anura,Hylidae,Lophyohylinae,Osteocephalus,cf. taurinus,adult,86.7,,9.5,7.9,9.25,7.7,8.9,NA,2
+French Guiana April 2018,MW 9986,,BMNH,Anura,Hylidae,Lophyohylinae,Osteocephalus,cf. taurinus,adult,84.5,,9.6,7.9,9.5,7.9,9.3,NA,1
+French Guiana April 2018,MW 11103,,BMNH,Anura,Hylidae,Lophyohylinae,Osteocephalus,taurinus,adult,86.1,,10.9,7.9,10.2,8,9.7,5.6,1
+French Guiana April 2018,MW 9997,,BMNH,Anura,Bufonidae,NA,Rhinella,marina,adult,98,,10.7,(7.5 can't see),10.8,9,10.6,6.1,1
+French Guiana April 2018,MW 9966,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Leptodactylus,cf. pentadactylus,adult,109.4,,10.9,NA,12.25,10.7,11.7,NA,2
+French Guiana April 2018,MW 9968,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Leptodactylus,pentadactylus,adult,117.2,,13,10.4,12.3,10.6,11.7,7.5,1
+French Guiana April 2018,MW 11187,,BMNH,Anura,Bufonidae,NA,Rhaebo,guttatus,adult,155,,16,13.5,15.5,13.7,14.1,8.7,1
+French Guiana April 2018,MW 9967,,BMNH,Anura,Leptodactylidae,Leptodactylinae,Leptodactylus,cf. pentadactylus,adult,148,,15.5,NA,15.8,14.1,14.8,NA,1
+French Guiana April 2018,MW 11336,,,Anura,Microhylidae,Gastrophryninae,Chiasmocleis,hudsoni,adult,28,,NA,NA,2.1,1.8,1.9,NA,1
+French Guiana April 2018,MW 11335,,,Anura,Microhylidae,Gastrophryninae,Chiasmocleis,hudsoni,adult,28.2,,NA,NA,2.3,2,2.1,NA,1
+French Guiana April 2018,MW 11268,,,Anura,Hylidae,Scinaxinae,Scinax,nebulosus,adult,36.1,,NA,NA,4.4,3.9,4,NA,1
+French Guiana April 2018,MW 11268,,,Anura,Hylidae,Cophomantinae,Boana,punctata,adult,36.5,,NA,NA,4.4,3.7,4.2,NA,1
+French Guiana April 2018,MW 11326,,,Anura,Hylidae,Lophyohylinae,Trachycephalus,corinia,adult,67.4,,NA,NA,6.8,5.7,6.3,NA,1
+French Guiana April 2018,MW 11322,,,Anura,Ceratophryidae,NA,Ceratophrys,cornuta,adult,72.9,,NA,NA,8,6.8,7.8,NA,1
+French Guiana April 2018,MW 11111,,BMNH,Anura,Hylidae,Dendropsophinae,Dendropsophus,sp. 2,adult,25.2,,4,3.3,4,3.4,NA,2.7,1
+London April 2019,JWS 897,,NHM,Anura,Ranidae,,Rana,temporaria,adult,65.71,23.17,6.72,6.72,6.69,4.4,NA,3.57,1
+NHM-Nov-2018,JWS 887,,NHM,Anura,Microhylidae,Microhylinae,Calluella,guttulata,adult,41.5,8.5,4.3,3.4,4.2,3.1,NA,NA,1
